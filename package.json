@@ -2,7 +2,7 @@
   "name": "gerich-restaurant",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://edibe88.github.io",
+  "homepage": "http://edibe88.github.io/gericht_restaurant",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.16.3",
@@ -21,7 +21,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy" : "npm run build&&gh-pages -d build"
+    "deploy": "npm run build&&gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
